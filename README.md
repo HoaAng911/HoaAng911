@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Hoa An  
+# 👋 Hi, I'm Ngoc Hoang  
 
-🎓 2nd-year Computer Science Student  
-💻 Web Developer (MERN & Django)  
-🚀 Passionate about Data Structures & Algorithms  
-🌱 Currently learning System Design & Security Testing  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🎓+2nd-year+IT+Student;💻+Web+Developer+(MERN+%26+Django);🚀+Love+Data+Structures+%26+Algorithms;🌱+Learning+System+Design+%26+Security+Testing)](https://git.io/typing-svg)
 
 ---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🛠 Tech Stack
 
@@ -33,11 +32,16 @@
 ## 📊 GitHub Stats
 
 ![HoaAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoaAng911&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoaAng911&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoaAng911&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoaAng911&theme=radical)
 
 ---
 
 ## 📫 Connect with me
 
-- Email: [your_email@gmail.com](mailto:your_email@gmail.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: [hoangdtntaluoi@gmail.com](mailto:hoangdtntaluoi@gmail.com)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/HoaAng911/HoaAng911/output/github-contribution-grid-snake.svg)
