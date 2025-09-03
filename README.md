@@ -44,4 +44,5 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/HoaAng911/HoaAng911/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/HoaAng911/HoaAng911/output/snake.svg)
+
