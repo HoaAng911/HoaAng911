@@ -48,7 +48,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoaAng911&theme=default)
 
 ---
-https://raw.githubusercontent.com/HoaAng911/HoaAng911/output/snake.svg
+![Snake animation](https://raw.githubusercontent.com/HoaAng911/HoaAng911/output/snake.svg)
+
 
 ## Contact
 
