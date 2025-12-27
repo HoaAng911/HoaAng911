@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=2nd-year+IT+Student;Web+Developer+(Backend+Focused);Learning+System+Design+%26+Security+Testing)](https://git.io/typing-svg)
 
 ---
+<img align="right" width="320" src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg">
 
 ## Tech Stack
 
